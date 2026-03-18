@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/Infrastructure/">
+    <File Path="docker-compose.yml" />
+  </Folder>
+  <Project Path="../Cafe.API/Cafe.API.csproj" />
+  <Project Path="../Cafe.Client.Admin/Cafe.Client.Admin.csproj" Id="088e8825-7a3d-4e40-a6b6-0a486f84d997" />
+  <Project Path="../Cafe.Client.Manager/Cafe.Client.Manager.csproj" Id="9383db20-febb-43e4-a444-72c222cb5457" />
+  <Project Path="../Cafe.Launcher/Cafe.Launcher.csproj" Id="4cc52955-493d-48b7-820e-7e1042ae0f7a" />
+  <Project Path="Cafe.Shared/Cafe.Shared.csproj" />
+</Solution>
